@@ -1,5 +1,7 @@
 ## RMIT Software Testing ISYS1085 / ISYS1087
 
+updated 02/08/2021 by Ivan Sun
+
 ### Week 3 Prac Junit Exercise 1
 
 #### Objectives
