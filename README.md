@@ -16,7 +16,7 @@ The objective over the two weeks is for students to feel comfortable using commo
 - assertThrows Exception classes
 
 Other objectives include using Junit / Eclipse IDE to:-
-- write test cases before implementing them 
+- write test cases before implementing the code being tested 
 - disabling / nesting / organising your test cases and making the unit test results user friendly 
 - perform some simple timing related tests  
 
