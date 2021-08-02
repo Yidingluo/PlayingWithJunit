@@ -4,16 +4,16 @@
 
 #### Objectives
 These prac exercises are focussed on Junit 5 and are pitched to students with some minimal exposure to unit testing in earlier courses. 
-The objective over the two weeks is for students to feel comfortable using Junit 5 commands like:- 
+The objective over the two weeks is for students to feel comfortable using common Junit 5 commands like:- 
 - fail 
 - assertEquals
 - assertSame 
 - assertTrue / assertFalse
 - assertThrows Exception classes
 
-Other  objectives include using Junit / Eclipse IDE to:-
+Other objectives include using Junit / Eclipse IDE to:-
 - write test cases before implementing them 
-- and perhaps some simple timing related functions  
+- perform some simple timing related tests  
 
 #### Preparation
 
