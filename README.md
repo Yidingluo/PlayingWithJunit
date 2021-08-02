@@ -4,6 +4,8 @@ updated 02/08/2021 by Ivan Sun
 
 ### Week 3 Prac Junit Exercise 1
 
+#### Never in the field of software development have so many owed so much to so few lines of code (Martin Fowler, re Junit)
+
 #### Objectives
 These prac exercises are focussed on Junit 5 and are pitched to students with some minimal exposure to unit testing in earlier courses. 
 The objective over the two weeks is for students to feel comfortable using common Junit 5 commands like:- 
