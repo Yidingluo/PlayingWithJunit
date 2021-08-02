@@ -23,7 +23,7 @@ class CalculatorTest {
 	}
 
 	   @Test
-	    void addition() {
+	    void addition() { // This should prompt Eclipse to create the method, if not already
 	        assertEquals(2, calculator.add(1, 1));
 	    }
 	   
