@@ -4,6 +4,8 @@ updated 02/08/2021 by Ivan Sun
 
 ### Week 3 Prac Junit Exercise 1
 
+##### Junit: "Never in the field of software development have so many owed so much to so few lines of code" (Martin Fowler)
+
 #### Objectives
 These prac exercises are focussed on Junit 5 and are pitched to students with some minimal exposure to unit testing in earlier courses. 
 The objective over the two weeks is for students to feel comfortable using common Junit 5 commands like:- 
@@ -14,7 +16,7 @@ The objective over the two weeks is for students to feel comfortable using commo
 - assertThrows Exception classes
 
 Other objectives include using Junit / Eclipse IDE to:-
-- write test cases before implementing them 
+- write test cases before implementing the code being tested 
 - disabling / nesting / organising your test cases and making the unit test results user friendly 
 - perform some simple timing related tests  
 
