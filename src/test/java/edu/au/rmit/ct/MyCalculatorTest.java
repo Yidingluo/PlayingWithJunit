@@ -7,11 +7,10 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-class CalculatorTest {
-	private final Calculator calculator = new Calculator();
+class MyCalculatorTest {
+
 	@BeforeAll
 	static void setUpBeforeClass() throws Exception {
-
 	}
 
 	@BeforeEach
@@ -22,13 +21,8 @@ class CalculatorTest {
 	void tearDown() throws Exception {
 	}
 
-	   @Test
-	    void testSimpleCalculatorAddition() { // This should prompt Eclipse to create the method, if not already
-	        // assertEquals(2, calculator.add(1, 1));
-	    }
-	   
 	@Test
-	void test() {
+	void test() { //Generic test fail
 		fail("Not yet implemented");
 	}
 
