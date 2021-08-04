@@ -39,5 +39,6 @@ Get ready with a recent/latest version of Eclipse and java compiler version 1.6+
 #### References
 
 * https://junit.org/junit5/docs/current/api/org.junit.jupiter.api/org/junit/jupiter/api/Assertions.html
+* https://www.jetbrains.com/help/idea/junit.html
 * https://www.linkedin.com/learning/practical-test-driven-development-for-java-programmers/using-tdd-to-safely-fix-bugs?u=2104756 (Videos - thank you Natalie)
 * (more to be added)
