@@ -10,5 +10,6 @@ interface Calculator {
 	public double fromPercent(double i);
 	public int modulus (int i, int j);
 	public int getMemoryStore();  // memory of last integer result of calculation
+	public boolean resetMemory();
 
 }
