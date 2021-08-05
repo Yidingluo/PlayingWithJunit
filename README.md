@@ -32,7 +32,7 @@ Get ready with a recent/latest version of Eclipse and java compiler version 1.6+
 * Review the commented out test functions in MyCalculatorTest.java to get you started with some ideas.
 * Start writing test cases using those suggested test function names, or rename as required.
 * Is one test case enough to test each method? Consider why you might need to have more than one test case to check a variety of different inputs or conditions.
-* Consider where you might assertTrue and also assertFalse
+* Consider where you might use assertTrue and also assertFalse
 * Consider where you expect a null or not-null return or condition.
 * Consider what Exceptions might be thrown by one or more of the calculator functions, and write a test method to check for that.
 
@@ -42,4 +42,5 @@ Get ready with a recent/latest version of Eclipse and java compiler version 1.6+
 * https://youtu.be/c0G2tKrXZso (Short video for running this in IntelliJ)
 * https://www.jetbrains.com/help/idea/junit.html
 * https://www.linkedin.com/learning/practical-test-driven-development-for-java-programmers/using-tdd-to-safely-fix-bugs?u=2104756 (Videos - thank you Natalie)
+* https://i.gyazo.com/5257c88eca4cedd12be1a15569bf4741.png (IntelliJ screenshot showing bug in expected value of addIntegers method)
 * (more to be added)
