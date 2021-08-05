@@ -32,7 +32,7 @@ Get ready with a recent/latest version of Eclipse and java compiler version 1.6+
 * Review the commented out test functions in MyCalculatorTest.java to get you started with some ideas.
 * Start writing test cases using those suggested test function names, or rename as required.
 * Is one test case enough to test each method? Consider why you might need to have more than one test case to check a variety of different inputs or conditions.
-* Consider where you might assertTrue and also assertFalse
+* Consider where you might use assertTrue and also assertFalse
 * Consider where you expect a null or not-null return or condition.
 * Consider what Exceptions might be thrown by one or more of the calculator functions, and write a test method to check for that.
 
