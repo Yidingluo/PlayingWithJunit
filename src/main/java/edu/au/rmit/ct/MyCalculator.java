@@ -12,6 +12,11 @@ public class MyCalculator
 		this.name = newName;	
 	}
 
+	public int addIntegers(int i, int j) {
+		// TODO Auto-generated method stub
+		return i + j;
+	}
+
 	
 	
 }
