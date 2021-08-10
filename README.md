@@ -2,7 +2,7 @@
 
 updated 02/08/2021 by Ivan Sun
 
-### Week 3 Prac Junit Exercise 1
+### Week 3/4 Prac Junit Exercise 
 
 ##### Junit: "Never in the field of software development have so many owed so much to so few lines of code" (Martin Fowler)
 
