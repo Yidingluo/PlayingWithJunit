@@ -1,3 +1,8 @@
+/**
+ * This implements the Calculator interface, and is used for a demo follow up to the beginner Junit class
+ * ((Week 4 ISYS1085/ISY1087))
+ */
+
 package edu.au.rmit.ct;
 
 import java.util.ArrayList;

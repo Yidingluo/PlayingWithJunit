@@ -1,3 +1,8 @@
+/**
+ * This implements the Calculator interface, and is used for demo of TDD creating test cases beginner level Junit
+ *  * ((Week 3 ISYS1085/ISY1087))
+ */
+
 package edu.au.rmit.ct;
 
 public class MyCalculator 
