@@ -36,6 +36,11 @@ Get ready with a recent/latest version of Eclipse and java compiler version 1.6+
 * Consider where you expect a null or not-null return or condition.
 * Consider what Exceptions might be thrown by one or more of the calculator functions, and write a test method to check for that.
 
+#### IntelliJ installation settings for Prac Week 4
+
+POM updates: https://i.gyazo.com/f9b52d587f75a579c932e3f94d47bbe9.png
+Run/Debug config: https://i.gyazo.com/46750d73c84c7148d7d7419b01236471.png
+
 #### References
 
 * https://junit.org/junit5/docs/current/api/org.junit.jupiter.api/org/junit/jupiter/api/Assertions.html
