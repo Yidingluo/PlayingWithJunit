@@ -27,7 +27,7 @@ public class MySecondCalculator implements Calculator {
 	}
 	
 	public MySecondCalculator(int newID, String newName) throws Exception {
-		if(newID == 000)
+		if(newID == 999)
 			throw new Exception("Not allowed to use 999 which is for Test Model");
 		this.id = newID;
 		this.name = newName;
