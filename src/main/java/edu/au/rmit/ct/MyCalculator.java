@@ -16,7 +16,5 @@ public class MyCalculator
 		// TODO Auto-generated method stub
 		return i + j;
 	}
-
-	
 	
 }

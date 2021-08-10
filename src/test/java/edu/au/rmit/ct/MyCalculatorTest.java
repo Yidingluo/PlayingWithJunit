@@ -30,6 +30,8 @@ class MyCalculatorTest {
 		fail("Not yet implemented");
 	}
 	
+	// Some Suggested tests below
+	
 	/*
 	 *  @Test
 	 *  void testAdditionOfIntegersSimple() {}
